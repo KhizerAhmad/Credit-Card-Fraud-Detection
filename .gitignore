@@ -1,0 +1,19 @@
+# Virtual Environment (UV local environment)
+.venv/
+
+# Python caching mechanisms
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local Data files (Crucial: Avoid uploading heavy CSVs to GitHub)
+creditcard.csv
+
+# IDE and Editor configurations
+.vscode/
+.idea/
+
+# Operating System files
+Thumbs.db
+.DS_Store
